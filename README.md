@@ -7,7 +7,7 @@
 
 - 📗 Rust
 - 📘 C++
-- 📙 Javascript
+- 📙 JavaScript
   
 
   
