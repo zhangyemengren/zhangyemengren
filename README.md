@@ -5,9 +5,9 @@
    <img style="float: right; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyemengren&layout=compact"/>
 </a>
 
-- 📗 RUST
+- 📗 Rust
 - 📘 C++
-- 📙 JAVASCRIPT
+- 📙 Javascript
   
 
   
